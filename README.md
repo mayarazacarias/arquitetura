@@ -1,2 +1,5 @@
-# 4_grude4j
-Códigos e Slide do 4° encontro de desenvolvedores Java da Paraíba. 
+## Grude4J: Creating microservice using Spring Cloud, Eureka and Zuul.  
+
+Detailed description can be found here: [Part 1: Creating microservice using Spring Cloud, Eureka and Zuul]
+
+
