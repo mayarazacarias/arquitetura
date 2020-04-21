@@ -17,6 +17,12 @@
 		 <spring.boot>2.1.4.RELEASE</spring.boot>  
 		<spring.boot.eureka>1.2.2.RELEASE</spring.boot.eureka>
 		<java.version>1.8</java.version>
+		
+		
+		<sonar.projectKey> mayarazacarias_arquitetura </sonar.projectKey>
+  <organização do sonar> mayarazacarias </ organização dosonar>
+  <sonar.host.url> https://sonarcloud.io </sonar.host.url>
+  <sonar.login> 844def03f0af81f210a39a42343256168fac1532 </sonar.login>
 	</properties>
 
 	<modules>
